@@ -1,0 +1,162 @@
+[
+ {
+   "Name": "Ajay",
+   "USN": 10,
+   "Subject1": 50,
+   "Subject2": 50,
+   "Subject3": 50,
+   "Pass": true
+ },
+ {
+   "Name": "Vijay",
+   "USN": 1,
+   "Subject1": 45,
+   "Subject2": 30,
+   "Subject3": 25,
+   "Pass": false
+ },
+ {
+   "Name": "Modi",
+   "USN": 15,
+   "Subject1": 42,
+   "Subject2": 40,
+   "Subject3": 40,
+   "Pass": false
+ },
+ {
+   "Name": "Amit",
+   "USN": 50,
+   "Subject1": 60,
+   "Subject2": 50,
+   "Subject3": 70,
+   "Pass": true
+ },
+ {
+   "Name": "Rahul",
+   "USN": 45,
+   "Subject1": 55,
+   "Subject2": 80,
+   "Subject3": 85,
+   "Pass": true
+ },
+ {
+   "Name": "Allu",
+   "USN": 6,
+   "Subject1": 70,
+   "Subject2": 65,
+   "Subject3": 65,
+   "Pass": true
+ },
+ {
+   "Name": "Soniya",
+   "USN": 9,
+   "Subject1": 68,
+   "Subject2": 78,
+   "Subject3": 95,
+   "Pass": true
+ },
+ {
+   "Name": "Prakash",
+   "USN": 30,
+   "Subject1": 36,
+   "Subject2": 42,
+   "Subject3": 32,
+   "Pass": false
+ },
+ {
+   "Name": "Sallu",
+   "USN": 19,
+   "Subject1": 27,
+   "Subject2": 45,
+   "Subject3": 34,
+   "Pass": false
+ },
+ {
+   "Name": "Jimin",
+   "USN": 25,
+   "Subject1": 32,
+   "Subject2": 32,
+   "Subject3": 45,
+   "Pass": false
+ },
+ {
+   "Name": "Senthu",
+   "USN": 202,
+   "Subject1": 90,
+   "Subject2": 95,
+   "Subject3": 95,
+   "Pass": true
+ },
+ {
+   "Name": "Pilsbury",
+   "USN": 80,
+   "Subject1": 85,
+   "Subject2": 87,
+   "Subject3": 92,
+   "Pass": true
+ },
+ {
+   "Name": "Rajini",
+   "USN": 40,
+   "Subject1": 60,
+   "Subject2": 60,
+   "Subject3": 80,
+   "Pass": true
+ },
+ {
+   "Name": "Munna",
+   "USN": 12,
+   "Subject1": 35,
+   "Subject2": 35,
+   "Subject3": 35,
+   "Pass": false
+ },
+ {
+   "Name": "Garuda",
+   "USN": 11,
+   "Subject1": 37,
+   "Subject2": 33,
+   "Subject3": 41,
+   "Pass": false
+ },
+ {
+   "Name": "Rani",
+   "USN": 69,
+   "Subject1": 46,
+   "Subject2": 55,
+   "Subject3": 65,
+   "Pass": true
+ },
+ {
+   "Name": "Rishu",
+   "USN": 32,
+   "Subject1": 65,
+   "Subject2": 70,
+   "Subject3": 69,
+   "Pass": true
+ },
+ {
+   "Name": "Neil",
+   "USN": 8,
+   "Subject1": 21,
+   "Subject2": 36,
+   "Subject3": 40,
+   "Pass": false
+ },
+ {
+   "Name": "Vincent",
+   "USN": 42,
+   "Subject1": 87,
+   "Subject2": 90,
+   "Subject3": 88,
+   "Pass": true
+ },
+ {
+   "Name": "Loki",
+   "USN": 200,
+   "Subject1": 40,
+   "Subject2": 41,
+   "Subject3": 42,
+   "Pass": false
+ }
+]
